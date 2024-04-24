@@ -1,0 +1,197 @@
+{
+    "Electronics": [
+      {
+        "name": "Prof. R N YADAV",
+        "email": "rnyadav@gmail.com"
+      },
+      {
+        "name": "Prof. M K Gupta",
+        "email": "gupta4@yahoo.com"
+      },
+      {
+        "name": "Prof. J S Yadav",
+        "email": "jsyadav74@gmail.com"
+      },
+      {
+        "name": "Prof. Rakesh Singhai",
+        "email": "prof.rsinghai@gmail.com"
+      },
+      {
+        "name": "Dr. Bhawna Shrivastava",
+        "email": "sonibhavana1@gmail.com"
+      },
+      {
+        "name": "Dr. Laxmi Kumre",
+        "email": "laxmikumre99@rediffmail.com"
+      },
+      {
+        "name": "Dr. Tarun K Gupta",
+        "email": "taruniet@rediffmail.com"
+      },
+      {
+        "name": "Dr. Alpana Pandey",
+        "email": "alpanasubodh@gmail.com"
+      },
+      {
+        "name": "Dr. Dheeraj Agarwal",
+        "email": "profdheerajagrawal@gmail.com"
+      },
+      {
+        "name": "Dr. Vijayshri Chaurasia",
+        "email": "vchaurasia@manit.ac.in"
+      },
+      {
+        "name": "Dr. Om Prakash Meena",
+        "email": "opm@manit.ac.in"
+      },
+      {
+        "name": "Dr. Rahul Chaurasia",
+        "email": "rkchaurasiya.39@gmail.com"
+      },
+      {
+        "name": "Dr. Manish Kashyap",
+        "email": "manishkashyap.iiit@gmail.com"
+      }
+    ],
+    "Computer": [
+      {
+        "name": "Prof. Nilay Khare",
+        "email": "nilay.khare@rediffmail.com"
+      },
+      {
+        "name": "Prof. Vasudev Dehalwar",
+        "email": "vasudevd@gmail.com"
+      },
+      {
+        "name": "Prof. Manasi Gyanchandani",
+        "email": "mansigyanchandani@manit.ac.in"
+      },
+      {
+        "name": "Dr. Jay Trilok Chaudhary",
+        "email": "jaytrilok@gmail.com"
+      },
+      {
+        "name": "Dr. Manish Pandey",
+        "email": "contactmanishpandey@yahoo.co.in"
+      },
+      {
+        "name": "Dr. Rajesh Wadhvani",
+        "email": "rajeshwadhvani@manit.ac.in"
+      },
+      {
+        "name": "Dr. Vijay Bhaskar Semwal",
+        "email": "vsemwal@manit.ac.in"
+      },
+      {
+        "name": "Dr. Akhtar Rasool",
+        "email": "akki262@gmail.com"
+      },
+      {
+        "name": "Dr. Vaibhav Soni",
+        "email": "vaibsoni.iiitbhopal@gmail.com"
+      }
+    ],
+    "Electrical": [
+      {
+        "name": "Dr. R.K. Nema",
+        "email": "rajeshnema@manit.ac.in"
+      },
+      {
+        "name": "Prof. N P Patidar",
+        "email": "nppatidar@yahoo.com"
+      },
+      {
+        "name": "Prof. Manisha Dubey",
+        "email": "md_mact@yahoo.co.in"
+      },
+      {
+        "name": "Dr. Mukesh Kumar Kirar",
+        "email": "mukeshkirar@manit.ac.in"
+      },
+      {
+        "name": "Dr. Pankaj Swarnkar",
+        "email": "P_swarnkar@yahoo.co.in"
+      },
+      {
+        "name": "Dr. Suresh Gawre",
+        "email": "suresh@manit.ac.in"
+      },
+      {
+        "name": "Dr. Amit Ojha",
+        "email": "amitojha@manit.ac.in"
+      },
+      {
+        "name": "Dr. Priyanka Paliwal",
+        "email": "Priyanka_manit@yahoo.com"
+      }
+    ],
+    "Mechanical": [
+      {
+        "name": "Prof. Amit Telang",
+        "email": "atelang7@rediffmail.com"
+      },
+      {
+        "name": "Dr. Akhilesh Soni",
+        "email": "sonimanit@gmail.com"
+      },
+      {
+        "name": "Dr. Vishal Parashar",
+        "email": "vishpara79@gmail.com"
+      },
+      {
+        "name": "Dr. Ravi Kumar Mandava",
+        "email": "MECH0002@iiitbhopal.ac.in"
+      },
+      {
+        "name": "Dr. Ajay Verma",
+        "email": "ajayverma@manit.ac.in"
+      }
+    ],
+    "Basic": [
+      {
+        "name": "Prof. Kamal Raj Pardasani",
+        "email": "kamalrajp@rediffmail.com"
+      },
+      {
+        "name": "Dr. Manoj Jha",
+        "email": "m_jha28@rediffmail.com"
+      },
+      {
+        "name": "Dr. Usha Chouhan",
+        "email": "ycchouhan@gmail.com"
+      },
+      {
+        "name": "Dr. J P Jaiswal",
+        "email": "jpbhu2007@gmail.com"
+      },
+      {
+        "name": "Dr. Samina Azahar",
+        "email": "saminazhar@yahoo.com"
+      },
+      {
+        "name": "Dr. Deepak Kumar",
+        "email": "deepakkumar@manit.ac.in"
+      },
+      {
+        "name": "Dr. Pushpender Yadav",
+        "email": "Pushpender1@gmail.com"
+      },
+      {
+        "name": "Dr. Anjali Dhengle",
+        "email": "dhengle.a@manit.ac.in"
+      },
+      {
+        "name": "Dr. Ashish Kumar Pradhan",
+        "email": "ashiskumarpradhan@manit.ac.in"
+      },
+      {
+        "name": "Dr. Dheerendra Mishra",
+        "email": "dheerendram@gmail.com"
+      },
+      {
+        "name": "Dr. Pushpendra Kumar",
+        "email": "pushpendra2a@gmail.com"
+      }
+    ]
+  }
+  
