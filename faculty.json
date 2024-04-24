@@ -1,0 +1,90 @@
+{
+    "ece": [
+        {
+            "name": "Dr. afreen Khursheed",
+            "email": "afreenkhursheed10@gmail.com"
+        },
+        {
+            "name": "Dr. Bhupendra SIngh Kirar",
+            "email": "bhup17@gmail.com"
+        },
+        {
+            "name": "Dr. Deepa Sharma",
+            "email": "er.deepa.in@gmail.com"
+        },
+        {
+            "name": "Dr. Neeraj Kumar",
+            "email": "kumarneeraj.mit@gmail.com"
+        },
+        {
+            "name": "Dr. Gaurav Kumar Bhart",
+            "email": "gkbharti.iiitbhopal@gmail.com"
+        },
+        {
+            "name": "Dr. Bhupendra SIngh Kirar",
+            "email": "bhup17@gmail.com"
+        }
+    ],
+    "cse": [
+        {
+            "name": "Dr. Nikhil Singh",
+            "email": "nikhilsinghmanit@gmail.com"
+        },
+        {
+            "name": "Dr. Gagan Vishwakarma",
+            "email":"gagan.manit2020@gmail.com"
+        },{
+            "name": "Dr. Yatendra Sahu",
+            "email": "yatendra.manit@gmail.com"
+        },
+        {
+            "name": "Dr. Sonal Chandel",
+            "email": "sonal.telang@gmail.com"
+        },
+        {
+            "name": "Dr. Arpita Bhargava",
+            "email": "arpitabhargava3003@gmail.com"
+        },{
+            "name": "Dr. Saurabh Jain",
+            "email" : "saurabh0758@gmail.com"
+        }
+    ],
+    "it": [
+        {
+            "name": "Dr. Rekha Kaushik",
+            "email": "rekhakaushik28@gmail.com"
+        },
+        {
+            "name": "Dr. Shalini Stalin",
+            "email": "shalini.stalin@yahoo.com"
+        },
+        {
+            "name": "Dr. Vishakha Chourasia",
+            "email": "vishakhachourasia23@gmail.com"
+        },
+        {
+            "name": "Dr. Dharmendra Dangi",
+            "email": "dangi28dharmendra28@gmail.com"
+        }
+    ],
+    "mathematics": [
+        {
+            "name": "Dr. Nisha Singhal",
+            "email": "nishamanit@gmail.com"
+        },
+        {
+            "name": "Dr. Indira Mishra",
+            "email": "indira.mishra1@gmail.com"
+        }
+    ],
+    "physics": [
+        {
+            "name": "Dr. Nikita Acharya",
+            "email": "acharyaniks30@gmail.com"
+        },
+        {
+            "name": "Dr. Anjani Kumar",
+            "email": "anjanikumar51284@gmail.com"
+        }
+    ]
+}           
